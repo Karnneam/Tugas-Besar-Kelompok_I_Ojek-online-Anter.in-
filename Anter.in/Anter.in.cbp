@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="SIAKAD" />
+		<Option title="Anter.in" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
@@ -32,22 +32,22 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="BST/header/nilaiBST.h" />
-		<Unit filename="BST/implementation/nilaiBST_[nim_anggota_1].cpp" />
-		<Unit filename="BST/implementation/nilaiBST_[nim_anggota_2].cpp" />
+		<Unit filename="BST/header/pesananBST.h" />
+		<Unit filename="BST/implementation/pesananBST_[nim_anggota_1].cpp" />
+		<Unit filename="BST/implementation/pesananBST_[nim_anggota_2].cpp" />
 		<Unit filename="Bonus/header/bonus.h" />
 		<Unit filename="Bonus/implementation/bonus.cpp" />
 		<Unit filename="Khusus/header/khusus.h" />
 		<Unit filename="Khusus/implementation/khusus.cpp" />
-		<Unit filename="MLL-01/header/krs.h" />
-		<Unit filename="MLL-01/header/mahasiswa.h" />
-		<Unit filename="MLL-01/header/matakuliah.h" />
-		<Unit filename="MLL-01/implementation/krs/krs_[nim_anggota_1].cpp" />
-		<Unit filename="MLL-01/implementation/krs/krs_[nim_anggota_2].cpp" />
-		<Unit filename="MLL-01/implementation/mahasiswa/mahasiswa_[nim_anggota_1].cpp" />
-		<Unit filename="MLL-01/implementation/mahasiswa/mahasiswa_[nim_anggota_2].cpp" />
-		<Unit filename="MLL-01/implementation/matakuliah/matakuliah_[nim_anggota_1].cpp" />
-		<Unit filename="MLL-01/implementation/matakuliah/matakuliah_[nim_anggota_2].cpp" />
+		<Unit filename="MLL-01/header/driver.h" />
+		<Unit filename="MLL-01/header/penumpang.h" />
+		<Unit filename="MLL-01/header/layanan.h" />
+		<Unit filename="MLL-01/implementation/driver/driver_[nim_anggota_1].cpp" />
+		<Unit filename="MLL-01/implementation/driver/driver_[nim_anggota_2].cpp" />
+		<Unit filename="MLL-01/implementation/penumpang/penumpang_[nim_anggota_1].cpp" />
+		<Unit filename="MLL-01/implementation/penumpang/penumpang_[nim_anggota_2].cpp" />
+		<Unit filename="MLL-01/implementation/layanan/layanan_[nim_anggota_1].cpp" />
+		<Unit filename="MLL-01/implementation/layanan/layanan_[nim_anggota_2].cpp" />
 		<Unit filename="dummy.cpp" />
 		<Unit filename="dummy.h" />
 		<Unit filename="interface.cpp" />
