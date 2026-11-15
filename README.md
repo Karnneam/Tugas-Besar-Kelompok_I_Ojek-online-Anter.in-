@@ -17,10 +17,13 @@ Aplikasi pengelolaan layanan ojek online (Anter.in) mencatat driver dan penumpan
 
 ## Arsitektur
 Arsitektur pada topik tugas besar ini menggunakan multi linked list tipe-01 dan binary search tree
-1. Multi Linked List Tipe-01
+
+### 1. Multi Linked List Tipe-01
+
 ![Images](https://i.imgur.com/iBBVDiM.png)
 
-2. Binary Search Tree
+### 2. Binary Search Tree
+
 ![Images](https://i.imgur.com/45lFeWK.png)
 
 ---
