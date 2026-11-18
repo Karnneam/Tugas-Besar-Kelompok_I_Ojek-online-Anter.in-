@@ -1,6 +1,7 @@
 # Tugas-Besar-Kelompok_I_Ojek-online-Anter.in-
 
 ## Deskripsi
+
 Aplikasi pengelolaan layanan ojek online (Anter.in) mencatat driver dan penumpang yang menggunakan layanan. Seorang driver dapat melayani banyak penumpang dan seorang penumpang dapat dilayani oleh beberapa driver bergantung pada jumlah pemesanan dalam sehari. Setiap pasangan driver dan penumpang dapat memiliki beberapa riwayat perjalanan. Data hubungan layanan driver dan penumpang dikelola melalui Multi Linked List, sedangkan pesanan perjalanan dicatat dalam Binary Search Tree.
 ---
 
@@ -16,6 +17,7 @@ Aplikasi pengelolaan layanan ojek online (Anter.in) mencatat driver dan penumpan
 ---
 
 ## Arsitektur
+
 Arsitektur pada topik tugas besar ini menggunakan multi linked list tipe-01 dan binary search tree
 
 ### 1. Multi Linked List Tipe-01
