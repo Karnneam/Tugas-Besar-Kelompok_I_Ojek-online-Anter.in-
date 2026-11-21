@@ -65,54 +65,43 @@ Fungsionalitas / studi kasus bonus yang dipilih dari topik ini adalah
 
 ## Struktur Folder
 ```bash
-├── Tugas-Besar-Kelompok_I
-│   Anter.in
-│   │   interface.cpp
-│   │   interface.h
-│   │   main.cpp
-│   │   Anter.in.cbp
-│   │   Anter.in.layout
-│   │
-│   ├───Bonus
-│   │   ├───header
-│   │   │       bonus.h
-│   │   │
-│   │   └───implementation
-│   │           bonus.cpp
-│   │
-│   ├───BST
-│   │   ├───header 
-│   │   │       pesananBST.h
-│   │   │
-│   │   └───implementation
-│   │           pesananBST_[nim_anggota_1].cpp
-│   │           pesananBST_[nim_anggota_2].cpp
-│   │
-│   ├───Khusus
-│   │   ├───header
-│   │   │       khusus.h
-│   │   │
-│   │   └───implementation
-│   │           khusus.cpp
-│   │
-│   └───MLL-01
-│       ├───header
-│       │       driver.h
-│       │       penumpang.h
-│       │       layanan.h
-│       │
-│       └───implementation
-│           ├───driver
-│           │       driver_[nim_anggota_1].cpp
-│           │       driver_[nim_anggota_2].cpp
-│           │
-│           ├───penumpang
-│           │       penumpang_[nim_anggota_1].cpp
-│           │       penumpang_[nim_anggota_2].cpp
-│           │
-│           └───layanan
-│                   layanan_[nim_anggota_1].cpp
-│                   layanan_[nim_anggota_2].cpp
+Tugas-Besar-Kelompok_I_Ojek-online-Anter.in-/
+├── Anter.in/
+│   ├── main.cpp
+│   ├── interface.cpp
+│   ├── interface.h
+│   ├── Anter.in.cbp
+│   ├── Bonus/
+│   │   ├── header/
+│   │   │   └── bonus.h
+│   │   └── implementation/
+│   │       └── bonus.cpp
+│   ├── BST/
+│   │   ├── header/
+│   │   │   └── pesananBST.h
+│   │   └── implementation/
+│   │       ├── pesananBST_103012500003.cpp
+│   │       └── pesananBST_103012500042.cpp
+│   ├── Khusus/
+│   │   ├── header/
+│   │   │   └── khusus.h
+│   │   └── implementation/
+│   │       └── khusus.cpp
+│   └── MLL/
+│       ├── header/
+│       │   ├── driver.h
+│       │   ├── penumpang.h
+│       │   └── layanan.h
+│       └── implementation/
+│           ├── driver/
+│           │   ├── driver_103012500003.cpp
+│           │   └── driver_103012500042.cpp
+│           ├── layanan/
+│           │   ├── layanan_103012500003.cpp
+│           │   └── layanan_103012500042.cpp
+│           └── penumpang/
+│               ├── penumpang_103012500003.cpp
+│               └── penumpang_103012500042.cpp
 ├── README.md
 └── .gitignore
 ```
